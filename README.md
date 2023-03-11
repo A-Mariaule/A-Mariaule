@@ -1,16 +1,22 @@
-### Hi there 👋
+# Mariaule Aurélien 
 
-<!--
-**A-Mariaule/A-Mariaule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who I am ?
+Diplômé d'un bachelier en
+mathématique, je suis actuellement
+en formation dans le développement
+web chez Becode Charleroi .
+Je recherche actuellement un stage
+dans une entreprise comme
+développeur backend
 
-Here are some ideas to get you started:
+## My projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- [Cogip](https://github.com/A-Mariaule/Cogip_Project)
+- [AZ-store](https://github.com/A-Mariaule/az_store)
+- In progress [ImageShare](https://github.com/A-Mariaule/ImageShare)
+### Frontend
+- [Weather-app](https://github.com/A-Mariaule/weather-app)
+- [Movies-collection](https://github.com/A-Mariaule/Movies-collection)
+- [Sunnyside](https://github.com/A-Mariaule/sunnyside-agency)
+- [Dark-kitchen](https://github.com/A-Mariaule/dark-kitchen)
