@@ -5,7 +5,7 @@ Diplômé d'un bachelier en
 mathématique, je suis actuellement
 en formation dans le développement
 web chez Becode Charleroi .
-Je recherche actuellement un stage
+Je recherche  un stage
 dans une entreprise comme
 développeur backend
 
